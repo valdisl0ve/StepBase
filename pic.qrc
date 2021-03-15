@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>pic/add.svg</file>
+        <file>pic/clear.svg</file>
+        <file>pic/reload.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>pic/database.svg</file>
+        <file>pic/ok.svg</file>
+        <file>pic/export.svg</file>
+        <file>pic/find.svg</file>
+    </qresource>
+</RCC>
